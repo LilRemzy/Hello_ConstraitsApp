@@ -17,6 +17,7 @@ V tej nalogi sem naredil Aplikacijo Helloconstraints, ki ponastavi števec. Gumb
 - preizkusiti aplikacijo v emulatorju telefona v pokončni in ležeči legi ter na emulatorju tablice.
 
 ## Zaslonske slike aplikacije
-
-
+<img width="320" height="555" alt="image" src="https://github.com/user-attachments/assets/3bafef32-f078-4ec9-9c59-a9aa3e7d5287" />
+<img width="320" height="555" alt="image" src="https://github.com/user-attachments/assets/435059ad-7ec5-408a-9f26-5a0f59c07808" />
+<img width="640" height="320" alt="image" src="https://github.com/user-attachments/assets/93ee4c5d-84f1-433c-9b1e-d01468c801ca" />
 
